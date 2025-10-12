@@ -11,7 +11,6 @@ http://46.151.196.246:49893/HINDI__ZEE_ACTION/tracks-v1a1/index-1758906960-8340.
 http://89.187.189.98/ZEEACTION/index.m3u8
 
 
-
 #EXTINF:-1,SUN MUSIC HD https://live.dinesh29.com.np/stream/jiotvplus/sunmusichd/master.m3u8
 #EXTINF:-1,ONLYMUSIC https://live.dinesh29.com.np/stream/jiotvplus/onlymusic/master.m3u8
 #EXTINF:-1,JOTHI TV https://live.dinesh29.com.np/stream/jiotvplus/jothitv/master.m3u8
@@ -55,25 +54,9 @@ https://magnoliaa-cinelife-oando-n6z8u.amagi.tv/playlist/magnoliaA-cinelife-oand
 #EXTINF:-1,CARTOON NETWORK http://tkosportz.live:25461/davidkavoosi@yahoo.com/2625108077/625
 #EXTINF:-1,SKY SPORTS 
 http://135.125.238.26:8080/catena-36-1149993-streamer-nz_sky_sport_4/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
-#EXTINF:-1,TATA SKY TAMIL CINEMA http://sans7.org:88/02081037932264/6ngPedX2jowgLzA/100159
-#EXTINF:-1,SUNLIFE http://sans7.org:88/02081037932264/6ngPedX2jowgLzA/100154
-#EXTINF:-1,HISTORY TV18 HD
-http://sans7.org:88/02081037932264/6ngPedX2jowgLzA/100116
-#EXTINF:-1,ZEE THIRAI http://sans7.org:88/02081037932264/6ngPedX2jowgLzA/100171
-#EXTINF:-1,ZEE TAMIL SD http://sans7.org:88/02081037932264/6ngPedX2jowgLzA/100170
-#EXTINF:-1,ZEE TAMIL HD http://sans7.org:88/02081037932264/6ngPedX2jowgLzA/100169
-#EXTINF:-1,COLORS TAMIL HD http://sans7.org:88/02081037932264/6ngPedX2jowgLzA/100109
-#EXTINF:-1,SUN NEWS http://sans7.org:88/02081037932264/6ngPedX2jowgLzA/100156
-#EXTINF:-1,SUN TV HD http://sans7.org:88/02081037932264/6ngPedX2jowgLzA/100157
-#EXTINF:-1,SUN MUSIC HD  http://sans7.org:88/02081037932264/6ngPedX2jowgLzA/100155
-#EXTINF:-1,VIJAY SUPER HD http://sans7.org:88/02081037932264/6ngPedX2jowgLzA/100167
-#EXTINF:-1,STAR VIJAY HD http://sans7.org:88/02081037932264/6ngPedX2jowgLzA/100153
+
 #EXTINF:-1,STAR VIJAY http://mytv.digital:80/hevern1996/mIovw2mgx6/731097
 #EXTINF:-1,COLORS TAMIL http://mytv.digital:80/hevern1996/mIovw2mgx6/731602
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1, 
 
 
 
@@ -86,17 +69,20 @@ http://sans7.org:88/02081037932264/6ngPedX2jowgLzA/100116
 
 
 
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1, 
-#EXTINF:-1, 
+
+
+
+#EXTINF:-1, STAR VIJAY http://goldenpro.xyz:80/live/41C25D424713/11515337D149/1019873.ts
+#EXTINF:-1, DD PODHIGAI  http://goldenpro.xyz:80/live/41C25D424713/11515337D149/72103.ts
+#EXTINF:-1, SONY BBC EARTH 
+http://goldenpro.xyz:80/live/41C25D424713/11515337D149/72119.ts
+#EXTINF:-1, SUN MUSIC http://goldenpro.xyz:80/live/41C25D424713/11515337D149/72123.ts
+#EXTINF:-1,KTV HD http://goldenpro.xyz:80/live/41C25D424713/11515337D149/72109.ts
+#EXTINF:-1,ZEE THIRAI http://goldenpro.xyz:80/live/41C25D424713/11515337D149/510441.ts
+#EXTINF:-1,ZEE TAMIL  http://goldenpro.xyz:80/live/41C25D424713/11515337D149/72132.ts
+#EXTINF:-1,SUN TV http://goldenpro.xyz:80/live/41C25D424713/11515337D149/72125.ts
+#EXTINF:-1,COLORS TAMIL http://goldenpro.xyz:80/live/41C25D424713/11515337D149/72101.ts
+#EXTINF:-1, STAR VIJAY http://goldenpro.xyz:80/live/41C25D424713/11515337D149/72120.ts
 #EXTINF:-1, 
 #EXTINF:-1, 
 #EXTINF:-1, 
