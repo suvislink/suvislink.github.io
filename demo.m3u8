@@ -68,8 +68,10 @@ https://edge4-moblive.yuppcdn.net/transsd/smil:saktv10.smil/playlist.m3u8?view=t
 http://ibc.massstream.net/IBC/index.m3u8
 #EXTINF:-1,IBC BAKTHI 
 http://ibc.massstream.net/IBC2/index.m3u8
-#EXTINF:-1,SUN TV HD (AST)  http://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd?channel=suntv
-#EXTINF:-1,SUN TV HD (SN) https://livestream2.sunnxt.com/803a6a4872a449a193b5846b5d101359/SunTVHD_P_IN_index.mpd
+#EXTINF:-1,SUN TV HD (AST)  
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd?channel=suntv
+#EXTINF:-1,SUN TV HD (SN) 
+https://livestream2.sunnxt.com/803a6a4872a449a193b5846b5d101359/SunTVHD_P_IN_index.mpd
 #EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,
