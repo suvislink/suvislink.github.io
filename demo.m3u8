@@ -1,4 +1,259 @@
-#EXTINF:-1,GEMINI TV
-https://livestream10.sunnxt .com/DolbyVision/GeminiTV _HDR/GeminiTV_HDR_Endpoints /GeminiTV-HDR10-IN-index.m3u8
-#EXTINF:-1,SURYA TV
-https://livestream10.sunnxt .com/DolbyVision/SuryaTV _HDR/SuryaTV_HDR_Endpoints /SuryaTV-HDR10-IN-index.m3u8
+#EXTINF:-1, PEPPERS TV 
+ https://cdn-2.pishow.tv/live/1383/master.m3u8
+#EXTINF:-1,RAJ DIGITAL PLUS 
+https://servertvhub.site/jio/app/ts_live_683.m3u8
+#EXTINF:-1,RAJ MUSIX 
+https://servertvhub.site/jio/app/ts_live_748.m3u8
+#EXTINF:-1,7S MUSIX 
+http://202.164.50.194:8000/play/a026/index.m3u8
+#EXTINF:-1,MALAI MURASU 
+https://cdn-3.pishow.tv/live/1606/master.m3u8
+#EXTINF:-1,VASANTHAM TV 
+https://edge2-moblive.yuppcdn.net/trans1sd/smil:vatv07.smil/playlist.m3u8
+#EXTINF:-1,WILD EARTH 
+https://d2f9g9rfw2kx84.cloudfront.net/playlist/amg01290-wildearth-oando/playlist.m3u8#3c2568002ddf1ba1e78f408bce3e32ddfcddfcbc603766bbf300c680df2e81f7
+#EXTINF:-1,4K TRAVEL TV 
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+#EXTINF:-1,HISTORY TV 18 HD TAMIL
+https://servertvhub.site/jio/app/ts_live_579.m3u8
+#EXTINF:-1,DISCOVERY TAMIL 
+https://servertvhub.site/jio/app/ts_live_569.m3u8
+#EXTINF:-1,CN TAMIL 
+https://servertvhub.site/jio/app/ts_live_817.m3u8
+#EXTINF:-1,CHUTTI TV 
+https://servertvhub.site/jio/app/ts_live_557.m3u8
+#EXTINF:-1,DISCOVERY TAMIL 
+https://servertvhub.site/jio/app/ts_live_550.m3u8
+#EXTINF:-1,NICK TAMIL 
+https://servertvhub.site/jio/app/ts_live_546.m3u8
+#EXTINF:-1,SONIC TAMIL 
+https://servertvhub.site/jio/app/ts_live_290.m3u8
+#EXTINF:-1,POGO TAMIL 
+https://servertvhub.site/jio/app/ts_live_542.m3u8
+#EXTINF:-1,FOX SPORTS 
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
+#EXTINF:-1,A SPORTS 
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/804
+#EXTINF:-1,DD SPORTS 
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1,ABSOLUTE REALITY 
+ https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1,JUST FOR LAUGHS 
+ https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8
+#EXTINF:-1,DISCOVER FILM 
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,MOVIESPHERE
+https://amg00353-lionsgatestudios-amg00353c2-tclideo-na-2304.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviesphere-tclideona/playlist.m3u8?device
+#EXTINF:-1,ACTION HOLLYWOOD 
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1,MOVIES CHANNEL
+https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
+#EXTINF:-1,24HRS MOVIES 
+https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8?view=tnm3u-addedby=tnm3u
+#EXTINF:-1,CRIME FLIX 
+https://dgx2snzx175pa.cloudfront.net/scheduler/scheduleMaster/391.m3u8?view=tnm3u-addedby=tnm3u
+#EXTINF:-1,HI DOST 
+https://cdn-1.pishow.tv/live/224/master.m3u8
+#EXTINF:-1,BOLLYWOOD HD 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:-1,BOLLYWOOD CLASSIC 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1,GOLDMINES 2 
+https://cdn-2.pishow.tv/live/1460/master.m3u8
+#EXTINF:-1,GOLD MINES 
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1,SAKTHI TV 
+https://edge4-moblive.yuppcdn.net/transsd/smil:saktv10.smil/playlist.m3u8?view=tnm3u-addedby=tnm3u
+#EXTINF:-1,IBC TAMIL 
+http://ibc.massstream.net/IBC/index.m3u8
+#EXTINF:-1,IBC BAKTHI 
+http://ibc.massstream.net/IBC2/index.m3u8
+#EXTINF:-1,SUN TV HD (AST)  http://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd?channel=suntv
+#EXTINF:-1,SUN TV HD (SN) https://livestream2.sunnxt.com/803a6a4872a449a193b5846b5d101359/SunTVHD_P_IN_index.mpd
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
