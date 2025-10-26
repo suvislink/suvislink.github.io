@@ -1,127 +1,113 @@
-#EXTINF:-1, PEPPERS TV 
- https://cdn-2.pishow.tv/live/1383/master.m3u8
-#EXTINF:-1,RAJ DIGITAL PLUS 
-https://servertvhub.site/jio/app/ts_live_683.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1,VADIVELU COMEDY RADIO 
+https://relay2.southradios.net/listen/vadivelu_comedy_radio/stream
+#EXTINF:-1,FIFA+ 
+https://bd4f89f2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/WGlhb21pLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1,GV PRAKASH RADIO 
+https://stream.zeno.fm/c9cxafngfekvv
+#EXTINF:-1,SANTHOSH NARAYANAN RADIO 
+https://stream.zeno.fm/wkqvzsg1238uv
+#EXTINF:-1,MANO RADIO 
+https://stream.zeno.fm/maokuvdskhnuv
+#EXTINF:-1,SWARNALATHA RADIO
+https://stream.zeno.fm/gr6nspzaa48uv
+#EXTINF:-1,IMMAN RADIO 
+https://stream.zeno.fm/6apkrxlnxudtv
+#EXTINF:-1,S JANAKI RADIO 
+https://stream.zeno.fm/nnhhfe4bv1uuv
+#EXTINF:-1,KS CHITRA RADIO 
+https://stream.zeno.fm/aad4e51qz7zuv
+#EXTINF:-1,DEVA RADIO RADIO
+https://stream.zeno.fm/ijpae65onobuv
+#EXTINF:-1,SPB RADIO 
+https://stream-159.zeno.fm/9adkzdcqi4jvv
+#EXTINF:-1,K.J.YESUDAS RADIO
+https://stream.zeno.fm/trtwuyqdmrgtv
+#EXTINF:-1,HARRIS JAYARAJ RADIO
+https://stream-158.zeno.fm/0bhsthssutzuv
+#EXTINF:-1,AR RAHMAN FM 
+http://stream.zeno.fm/ihpr0rqzoxquv
+#EXTINF:-1,ILAYARAJA FM 
+https://stream-164.zeno.fm/pwm9y3eud5zuv
+#EXTINF:-1,LANKASRI FM 
+http://5984.cloudrad.io:8032/;stream.mp3
+#EXTINF:-1,ALL INDIA RADIO AIR NAGERCOIL 
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio207/chunklist.m3u8
+#EXTINF:-1,ALL INDIA RADIO AIR TUTICORIN 
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio121/chunklist.m3u8
+#EXTINF:-1,RADIO CITY 
+ https://radios.crabdance.com:8002/5
+#EXTINF:-1,SURYAN 93.5 FM 
+ https://radios.crabdance.com:8002/2
+#EXTINF:-1,RADIO MIRCHI TAMIL 98.3 FM 
+https://radios.crabdance.com:8002/1
+#EXTINF:-1,ALL INDIA RADIO AIR AKASHVANI 103.3 FM 
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio00264kbps.m3u8
+#EXTINF:-1,ALL INDIA RADIO AIR COIMBATORE 999 AM 
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio016/chunklist.m3u8
+#EXTINF:-1,RADIO HELLO 106.4 FM 
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio022/chunklist.m3u8
+#EXTINF:-1,RUPAVAHINI 
+https://edge2-moblive.yuppcdn.net/transsd/smil:runi01.smil/playlist.m3u8?dvr
+#EXTINF:-1,JOTHI TV 
+https://jtvp.8088yyy.workers.dev/bpk-tv/Jothi_TV_BTS/output/index.mpd|Referer=https://m3u.8088y.site/
+#EXTINF:-1,NDTV INDIA 
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
+#EXTINF:-1,Watch NDTV 24X7 
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/masterb_1080p@4.m3u8
+#EXTINF:-1,NDTV PROFIT PRIME 
+https://dai.google.com/linear/hls/event/QuU6z3GSTDaXuLL9Hs5A5Q/master.m3u8
+#EXTINF:-1,CNBC TV18 
+https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1,CNN NEWS18 
+https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1,SONY BBC EARTH 
+https://sl.8088yyy.workers.dev/1000009252.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://m3u.8088y.site/
+#EXTINF:-1,TRAVELXP TAMIL
+https://jtvp.8088yyy.workers.dev/bpk-tv/Travel_XP_Tamil_BTS/output/index.mpd|Referer=https://m3u.8088y.site/
 #EXTINF:-1,RAJ MUSIX 
-https://servertvhub.site/jio/app/ts_live_748.m3u8
-#EXTINF:-1,7S MUSIX 
-http://202.164.50.194:8000/play/a026/index.m3u8
-#EXTINF:-1,MALAI MURASU 
-https://cdn-3.pishow.tv/live/1606/master.m3u8
-#EXTINF:-1,VASANTHAM TV 
-https://edge2-moblive.yuppcdn.net/trans1sd/smil:vatv07.smil/playlist.m3u8
-#EXTINF:-1,WILD EARTH 
-https://d2f9g9rfw2kx84.cloudfront.net/playlist/amg01290-wildearth-oando/playlist.m3u8#3c2568002ddf1ba1e78f408bce3e32ddfcddfcbc603766bbf300c680df2e81f7
-#EXTINF:-1,4K TRAVEL TV 
-https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-#EXTINF:-1,HISTORY TV 18 HD TAMIL
-https://servertvhub.site/jio/app/ts_live_579.m3u8
-#EXTINF:-1,DISCOVERY TAMIL 
-https://servertvhub.site/jio/app/ts_live_569.m3u8
-#EXTINF:-1,CN TAMIL 
-https://servertvhub.site/jio/app/ts_live_817.m3u8
-#EXTINF:-1,CHUTTI TV 
-https://servertvhub.site/jio/app/ts_live_557.m3u8
-#EXTINF:-1,DISCOVERY TAMIL 
-https://servertvhub.site/jio/app/ts_live_550.m3u8
-#EXTINF:-1,NICK TAMIL 
-https://servertvhub.site/jio/app/ts_live_546.m3u8
-#EXTINF:-1,SONIC TAMIL 
-https://servertvhub.site/jio/app/ts_live_290.m3u8
-#EXTINF:-1,POGO TAMIL 
-https://servertvhub.site/jio/app/ts_live_542.m3u8
-#EXTINF:-1,FOX SPORTS 
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
-#EXTINF:-1,A SPORTS 
-http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/804
-#EXTINF:-1,DD SPORTS 
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-#EXTINF:-1,ABSOLUTE REALITY 
- https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1,JUST FOR LAUGHS 
- https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8
-#EXTINF:-1,DISCOVER FILM 
-https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,MOVIESPHERE
-https://amg00353-lionsgatestudios-amg00353c2-tclideo-na-2304.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviesphere-tclideona/playlist.m3u8?device
-#EXTINF:-1,ACTION HOLLYWOOD 
-https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1,MOVIES CHANNEL
-https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
-#EXTINF:-1,24HRS MOVIES 
-https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8?view=tnm3u-addedby=tnm3u
-#EXTINF:-1,CRIME FLIX 
-https://dgx2snzx175pa.cloudfront.net/scheduler/scheduleMaster/391.m3u8?view=tnm3u-addedby=tnm3u
-#EXTINF:-1,HI DOST 
-https://cdn-1.pishow.tv/live/224/master.m3u8
-#EXTINF:-1,BOLLYWOOD HD 
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-#EXTINF:-1,BOLLYWOOD CLASSIC 
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-#EXTINF:-1,GOLDMINES 2 
-https://cdn-2.pishow.tv/live/1460/master.m3u8
-#EXTINF:-1,GOLD MINES 
-https://cdn-2.pishow.tv/live/1459/master.m3u8
-#EXTINF:-1,SAKTHI TV 
-https://edge4-moblive.yuppcdn.net/transsd/smil:saktv10.smil/playlist.m3u8?view=tnm3u-addedby=tnm3u
-#EXTINF:-1,IBC TAMIL 
-http://ibc.massstream.net/IBC/index.m3u8
-#EXTINF:-1,IBC BAKTHI 
-http://ibc.massstream.net/IBC2/index.m3u8
-#EXTINF:-1,SUN TV HD (AST)  
+https://jtvp.8088yyy.workers.dev/bpk-tv/Raj_Musix_BTS/output/index.mpd|Referer=https://m3u.8088y.site/
+#EXTINF:-1,VIJAY TAKKAR 
+https://jtvp.8088yyy.workers.dev/bpk-tv/Vijay_Takkar_BTS/output/index.mpd|Referer=https://m3u.8088y.site/
+#EXTINF:-1,SUN MUSIC HD 
+https://jtvp.8088yyy.workers.dev/bpk-tv/Sun_Music_HD_MOB/WDVLive/index.mpd|Referer=https://m3u.8088y.site/
+#EXTINF:-1,ZEE THIRAI HD
+https://m3u.8088y.fun/z5/index.php?id=0-9-224
+#EXTINF:-1,STAR VIJAY MOVIE
+https://livetv-hotstar.pages.dev/mp1/gec-india/4651958e6bd142a48cf1b512257b130a/index.m3u8
+#EXTINF:-1,STAR VIJAY SUPER 
+https://livetv-hotstar.pages.dev/mp2/gec-india/c65ada10b4604667a9cd9495f1387e87/index.m3u8
+
+#EXTINF:-1,ADITHYA TV  
+https://jtvp.8088yyy.workers.dev/bpk-tv/Adithya_TV_MOB/WDVLive/index.mpd|Referer=https://m3u.8088y.site/
+ 
+#EXTINF:-1,JAYA TV HD 
+https://jtvp.8088yyy.workers.dev/bpk-tv/Jaya_TV_HD_BTS/output/index.mpd|Referer=https://m3u.8088y.site/
+#EXTINF:-1,COLORS TAMIL HD 
+https://jtvp.8088yyy.workers.dev/bpk-tv/Colors_Tamil_HD_BTS/output/index.mpd|Referer=https://m3u.8088y.site/
+#EXTINF:-1,ZEE TAMIL 
+https://m3u.8088y.fun/z5/index.php?id=0-9-9z5383487
+#EXTINF:-1,ZEE TAMIL HD 
+https://m3u.8088y.fun/z5/index.php?id=0-9-zeetamil 
+#EXTINF:-1,STAR VIJAY HD  
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd?channel=starvijay
+#EXTINF:-1,STAR VIJAY HD 
+https://xtm.8088yyy.workers.dev/3386.m3u8
+#EXTINF:-1,STAR VIJAY HD 
+https://tv.vaanam24.com/live.m3u8?c=VIJAYTV
+#EXTINF:-1,STAR VIJAY 
+https://jtvp.8088yyy.workers.dev/bpk-tv/Star_Vijay_HD_BTS/output/index.mpd|Referer=https://m3u.8088y.site/
+#EXTINF:-1,SUN TV HD 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd?channel=suntv
-#EXTINF:-1,SUN TV HD (SN) 
-https://livestream2.sunnxt.com/803a6a4872a449a193b5846b5d101359/SunTVHD_P_IN_index.mpd
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
+#EXTINF:-1,SUN TV HD 
+https://jtvp.8088yyy.workers.dev/bpk-tv/Sun_TV_HD_MOB/WDVLive/index.mpd|Referer=https://m3u.8088y.site/
 #EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,
