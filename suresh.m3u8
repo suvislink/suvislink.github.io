@@ -45,8 +45,7 @@ http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/1019880
 https://servertvhub.site/jio/app/ts_live_895.m3u8
 #EXTINF:-1,SUN MUSIC 3
 http://mytv.digital:80/hevern1996/mIovw2mgx6/731084.ts
-#EXTINF:-1,RAJ MUSIX 
-https://servertvhub.site/jio/app/ts_live_7ll0lllllppplplllpllppllplllplllllplpppllppppllllllllpplpl48.m3u8
+
 #EXTINF:-1,7S MUSIX 
 http://202.164.50.194:8000/play/a026/index.m3u8
 #EXTINF:-1,ISAI ARUVI 
@@ -69,10 +68,11 @@ https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 https://cdn-3.pishow.tv/live/1606/master.m3u8
 #EXTINF:-1,POLIMER TV 
 https://cdn-2.pishow.tv/live/1241/master.m3u8
-#EXTINF:-1,MAKKAL TV 
-http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+
 #EXTINF:-1,ZEE NEWS 
 https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
+#EXTINF:-1,NEWS TAMIL 24*7
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-tamil-24x7/index.m3u8
 
 #EXTINF:-1,NEWS 7 
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/news7_nim_https/240122/news7/playlist.m3u8
@@ -145,25 +145,53 @@ https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_inde
 http://mytv.digital:80/hevern1996/mIovw2mgx6/731082.ts
 #EXTINF:-1, SUN LIFE(NS)
 https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index.mpd?|drmScheme=clearkey&drmLicense=81546df3f41c4a6dbc9a4efc7f2fb626:3928505f4054cf1fa935276fdbe40992
+#EXTINF:-1,SUN LIFE (NS)
+http://cors.tundracast.com:2000/http://87.255.35.150:18953/.ts
 #EXTINF:-1, STAR VIJAY (NS)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd?%7CdrmScheme=clearkey&drmLicense=af35608a7d4b13d1158c2ef6d6c1a010:d01c81050dfab309c6be7e60d03c2d82
 #EXTINF:-1,STAR VIJAY (NS)
 https://xtm.8088yyy.workers.dev/3386.m3u8
+#EXTINF:-1, STAR VIJAY (NS)
+http://cors.tundracast.com:2000/http://87.255.35.150:18832/.ts
+#EXTINF:-1, VIJAY SUPER (NS)
+http://cors.tundracast.com:2000/http://87.255.35.150:18954/.ts
+#EXTINF:-1, COLOR TAMIL (NS(
+http://cors.tundracast.com:2000/http://87.255.35.150:18550/.ts
 
-#EXTINF:-1,STAR VIJAY (NS)
-https://jtvp.8088yyy.workers.dev/bpk-tv/Star_Vijay_HD_BTS/output/index.mpd|Referer=https://m3u.8088y.site/
 #EXTINF:-1, ZEE TAMIL (NS)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd?|drmScheme=clearkey&drmLicense=0d4e3e7dac2d58b93bf819a72fe8d510:667a33f4d5bb3587f2d5209886839eac
+
+#EXTINF:-1,ZEE TAMIL (NS)
+ https://servertvhub.site/zee5-
+main/index.php?id=0-9-360&%7CUser-Agent=Mozilla/5.0 
+#EXTINF:-1,ZEE TAMIL (NS)
+https://servertvhub.site/zee5-main/index.php?id=0-9-zeetamil&%7CUser-Agent=Mozilla/5.0
+#EXTINF:-1,ZEE TAMIL (NS)
+https://servertvhub.site/zee5-main/index.php?id=0-9-9z5383487&%7CUser-Agent=Mozilla/5.0 
 #EXTINF:-1,ZEE TAMIL (NS)
 https://m3u.8088y.fun/z5/index.php?id=0-9-9z5383487
 #EXTINF:-1,ZEE TAMIL (NS)
 https://m3u.8088y.fun/z5/index.php?id=0-9-zeetamil 
-#EXTINF:-1, KTV(NS)
-http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=1163831&extension=m3u8&play_token=Qp9HoZVNG1
+#EXTINF:-1,ZEE TAMIL (NS)
+http://cors.tundracast.com:2000/http://87.255.35.150:18553/.ts
+#EXTINF:-1,ZEE THIRAI (NS)
+https://servertvhub.site/zee5-main/index.php?id=0-9-224&%7CUser-Agent=Mozilla/5.0 
+#EXTINF:-1,ZEE THIRAI (NS)
+http://cors.tundracast.com:2000/http://87.255.35.150:18597/.ts
+#EXTINF:-1,KTV (NS)
+http://cors.tundracast.com:2000/http://87.255.35.150:18805/.ts
+
 #EXTINF:-1, ADITYA TV (NS)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd?%7CdrmScheme=clearkey&drmLicense=859f5b2054c4073e8f0da463d208b910:5eb3762b1a4631a0b98e25e23cef0193
-#EXTINF:-1, ASTRO VAANAVIL(NS)
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd?%7CdrmScheme=clearkey&drmLicense=72499c6ad44cc37d95a9075420911110:b5416326114a13e90662a4fbaf3c532b
+#EXTINF:-1,RAJ DIGITAL PLUS (NS)
+http://cors.tundracast.com:2000/http://87.255.35.150:18478/.ts
+#EXTINF:-1,RAJ MUSIC (NS)
+http://cors.tundracast.com:2000/http://87.255.35.150:18477/.ts
+#EXTINF:-1,VENDER TV (NS)
+http://cors.tundracast.com:2000/http://87.255.35.150:18913/.ts
+#EXTINF:-1,DD SPORTS (NS)
+http://cors.tundracast.com:2000/http://87.255.35.150:18922/.ts
+
 #EXTINF:-1,ASTRO VELITHIRAI(NS)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_ott.mpd?%7CdrmScheme=clearkey&drmLicense=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
 #EXTINF:-1,RASITV (NS)
@@ -185,6 +213,15 @@ http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/playlist.m3u8
 https://dgx2snzx175pa.cloudfront.net/scheduler/scheduleMaster/391.m3u8
 #EXTINF:-1,SONY BBC EARTH (NS)
 https://sl.8088yyy.workers.dev/1000009252.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://m3u.8088y.site/
+#EXTINF:-1,WILLOW CRICKET (NS)
+https://dj-tm-srvr2.vercel.app/slingtv/dash/WILLOW_HD@DJ-TM.mpd?id=22|Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=clearkey&drmLicense=https://dj-tm-srvr2.vercel.app/slingtv/ck/wllo.key?id=22
+#EXTINF:-1,STAR SPORTS TAMIL (NS)
+http://cors.tundracast.com:2000/http://87.255.35.150:18844/.ts
+#EXTINF:-1,10 BOLD ADLIADE (NS)
+https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
+
+#EXTINF:-1, HUNGAMA MULTI AUDIO (NS)
+http://cors.tundracast.com:2000/http://87.255.35.150:18811/.ts
 #EXTINF:-1,RASI TV
 http://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac/playlist.m3u8
 #EXTINF:-1, RASI TAMIL 1
@@ -384,8 +421,7 @@ https://cable75tataplay.akamaized.net/dash/sanatv.mpd
 http://120.138.14.16:8080/hls/tamilmagantv/index.m3u8
 
 
-#EXTINF:-1,YOUNG HOLLYWOOD 
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00143-younghollywood-yunghollywd-pppppppppllppplgau/playlist.m3u8
+
 #EXTINF:-1,ACTION HOLLYWOOD 
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
@@ -502,6 +538,8 @@ https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8?view=tnm3u-addedby=tnm3u
 #EXTINF:-1,CRIME FLIX 
 https://dgx2snzx175pa.cloudfront.net/scheduler/scheduleMaster/391.m3u8?view=tnm3u-addedby=tnm3u
+#EXTINF:-1, FASHION FINDS
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
 
 
 #EXTINF:-1,NDTV INDIA 
@@ -509,8 +547,10 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m
 
 #EXTINF:-1,NDTV PROFIT PRIME 
 https://dai.google.com/linear/hls/event/QuU6z3GSTDaXuLL9Hs5A5Q/master.m3u8
-#EXTINF:-1,CNBC TV18 
+#EXTINF:-1,CNBC TV 1
 https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1,CNBC TV 2
+https://amg00866-amg00866c2-xiaomi-in-3516.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,CNN NEWS18 
 https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
 #EXTINF:-1,&TV 
@@ -951,8 +991,7 @@ https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio00264k
 #EXTINF:-1,ALL INDIA RADIO AIR COIMBATORE 999 AM 
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio016/chunklist.m3u8
 
-#EXTINF:-1,RUPAVAHINI 
-https://edge2-moblive.yuppcdn.net/transsd/smil:runi01.smil/playlist.m3u8?dvr
+
 
 
 #EXTINF:-1, RADIO YES STREAM 1
@@ -1258,11 +1297,6 @@ http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/123990.ts
 
 
  
-
-
-
-
-
 
 
 
