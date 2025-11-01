@@ -2,31 +2,54 @@
 #EXTINF:-1,SUN TV 1
 https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8
 #EXTINF:-1,SUN TV 2
-https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8
-#EXTINF:-1,SUN TV 3
-http://xott.live:8080/23jan.waqar/992211/380967
-#EXTINF:-1,SUN TV 4
 http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/72125
-#EXTINF:-1, VIJAY TV 1
+#EXTINF:-1,SUN TV 3
+https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8
+#EXTINF:-1,SUN TV 4
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/1019881
+#EXTINF:-1,SUN TV 5
+http://xott.live:8080/23jan.waqar/992211/380967
+#EXTINF:-1,SUN TV 6
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/72125
+#EXTINF:-1,STAR VIJAY 1
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/72120
+#EXTINF:-1, STAR VIJAY 2
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/72121
+#EXTINF:-1, STAR VIJAY TV 3
 http://xott.live:8080/23jan.waqar/992211/380952
-#EXTINF:-1,VIJAY TV 2
-https://tv.vaanam24.com/live.m3u8?c=VIJAYTV
+
+#EXTINF:-1, VIJAY SUPER 
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/72129
 #EXTINF:-1,COLORS TAMIL 1
 http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/72101
 #EXTINF:-1,COLORS TAMIL 2
 https://servertvhub.site/jio/app/ts_live_429.m3u8
 #EXTINF:-1,COLORS TAMIL 3
 http://mytv.digital:80/hevern1996/mIovw2mgx6/731602.ts
+
+
+
 #EXTINF:-1,ZEE TAMIL 1
 http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/72132
 #EXTINF:-1,ZEE TAMIL 2
 http://mytv.digital:80/hevern1996/mIovw2mgx6/730959.ts
+#EXTINF:-1,ZEE TAMIL 3
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/72131
+#EXTINF:-1,ZEE TAMIL 4
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/510445
 #EXTINF:-1,ZEE THIRAI 
 https://m3u.8088y.fun/z5/index.php?id=0-9-224
+
 #EXTINF:-1,KTV 1
 http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/1091270
 #EXTINF:-1,KTV 2
 https://servertvhub.site/jio/app/ts_live_894.m3u8
+#EXTINF:-1,KTV 3
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/72109
+#EXTINF:-1,SUN LIFE 1
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/72122
+#EXTINF:-1,SUN LIFE 2
+http://servertvhub.site/jio/app/live.php?id=682
 #EXTINF:-1,ADITHYA TV 1
 http://servertvhub.site/jio/app/live.php?id=709
 #EXTINF:-1,ADHTIYA TV 2
@@ -34,10 +57,24 @@ http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/72097
 #EXTINF:-1, KALAIGNAR TV 
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
-#EXTINF:-1, RAJ TV 
+#EXTINF:-1,RAJ TV 1
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/510447
+#EXTINF:-1, RAJ TV 2
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8
 #EXTINF:-1,RAJ DIGITAL PLUS 
 https://servertvhub.site/jio/app/ts_live_683.m3u8
+#EXTINF:-1,JAYA TV 
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/72108
+#EXTINF:-1,JAYA PLUS
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/510454
+#EXTINF:-1,JAYA MAX 1
+https://servertvhub.site/jio/app/ts_live_420.m3u8
+#EXTINF:-1,JAYA MAX 2
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/975938
+#EXTINF:-1,JAYA MOVIES 1
+https://servertvhub.site/jio/app/ts_live_417.m3u8
+#EXTINF:-1,JAYA MOVIES 2
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/510438
 
 #EXTINF:-1,SUN MUSIC 1
 http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/1019880
@@ -45,19 +82,16 @@ http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/1019880
 https://servertvhub.site/jio/app/ts_live_895.m3u8
 #EXTINF:-1,SUN MUSIC 3
 http://mytv.digital:80/hevern1996/mIovw2mgx6/731084.ts
-
+#EXTINF:-1,SUN MUSIC 4
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/72123
 #EXTINF:-1,7S MUSIX 
 http://202.164.50.194:8000/play/a026/index.m3u8
 #EXTINF:-1,ISAI ARUVI 
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1,SIRIPOLLI  
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
-#EXTINF:-1,SUN LIFE 
-http://servertvhub.site/jio/app/live.php?id=682
-#EXTINF:-1,JAYA MAX 
-https://servertvhub.site/jio/app/ts_live_420.m3u8
-#EXTINF:-1,JAYA MOVIE 
-https://servertvhub.site/jio/app/ts_live_417.m3u8
+
+
 #EXTINF:-1, VIKATAN TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/vikatan-tv/master.m3u8
 #EXTINF:-1,AASATHA TAMIL  
@@ -68,7 +102,8 @@ https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 https://cdn-3.pishow.tv/live/1606/master.m3u8
 #EXTINF:-1,POLIMER TV 
 https://cdn-2.pishow.tv/live/1241/master.m3u8
-
+#EXTINF:-1,SUN NEWS
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/72124
 #EXTINF:-1,ZEE NEWS 
 https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
 #EXTINF:-1,NEWS TAMIL 24*7
@@ -97,6 +132,8 @@ https://cdn-3.pishow.tv/live/1135/master.m3u8
 http://mytv.digital:80/hevern1996/mIovw2mgx6/731118.ts
 #EXTINF:-1,SIVAN TV 
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+#EXTINF:-1,VASANTH
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/72127
 #EXTINF:-1,VENDHAR TV 
 https://cdn-3.pishow.tv/live/1271/master.m3u8
 #EXTINF:-1,VASANTHAM TV 
@@ -119,12 +156,15 @@ http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.
 https://servertvhub.site/jio/app/ts_live_579.m3u8
 #EXTINF:-1,HISTORY TV18 TAMIL 2
 http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/72106
+#EXTINF:-1, TRAVEL XP 
+http://xott.live:8080/23jan.waqar/992211/380937
+#EXTINF:-1,IN WILD TAMIL
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/510419
 #EXTINF:-1,NAT GEO WILD 
 http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/72111
 #EXTINF:-1,SONY BBC EARTH 
 http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/72119
-#EXTINF:-1, TRAVEL XP 
-http://xott.live:8080/23jan.waqar/992211/380937
+
 #EXTINF:-1,DISCOVERY TAMIL 
 https://servertvhub.site/jio/app/ts_live_569.m3u8
 #EXTINF:-1,CN TAMIL 
@@ -153,9 +193,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd?%7C
 https://xtm.8088yyy.workers.dev/3386.m3u8
 #EXTINF:-1, STAR VIJAY (NS)
 http://cors.tundracast.com:2000/http://87.255.35.150:18832/.ts
+#EXTINF:-1, STAR VIJAY (NS)
+http://filex.me:8080/000003/000003/520295
+#EXTINF:-1,STAR VIJAY TV (NS)
+https://tv.vaanam24.com/live.m3u8?c=VIJAYTV
 #EXTINF:-1, VIJAY SUPER (NS)
 http://cors.tundracast.com:2000/http://87.255.35.150:18954/.ts
-#EXTINF:-1, COLOR TAMIL (NS(
+#EXTINF:-1, COLOR TAMIL (NS)
 http://cors.tundracast.com:2000/http://87.255.35.150:18550/.ts
 
 #EXTINF:-1, ZEE TAMIL (NS)
@@ -467,6 +511,25 @@ https://d2f9g9rfw2kx84.cloudfront.net/playlist/amg01290-wildearth-oando/playlist
 
 #EXTINF:-1,Travelxp 4K HDR
 https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
+#EXTINF:-1, TRAVEL XP 
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/34679
+
+#EXTINF:-1,TLC
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/34680
+#EXTINF:-1,STAR MOVIES SELECT 
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/34687
+#EXTINF:-1,SONY BBC EARTH 
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/34690
+#EXTINF:-1,MNX
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/34698
+#EXTINF:-1, DISNEY INTERNATIONAL 
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/34706
+#EXTINF:-1, COLORS INFINITY 
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/34710
+
+
+#EXTINF:-1,&PRIVE
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/34717
 #EXTINF:-1,4k TRAVEL 1
 https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/title-4K-TRAVEL-TV-ENG/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 #EXTINF:-1,4K TRAVEL 2
@@ -477,7 +540,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://d348r1iu8hx0nx.cloudfront.net/playlist.m3u8
 #EXTINF:-1,IN WILD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwild-samsungau/playlist.m3u8
-#EXTINF:-1, ADVENTURE EARTH (AU)  https://autentic-adventure-earth-1-au.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1, ADVENTURE EARTH (AU)  
+https://autentic-adventure-earth-1-au.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Baywatch (Australia)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8
 #EXTINF:-1,The Wicked Tuna Channel 
@@ -604,6 +668,8 @@ https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-1521
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=376927479
 #EXTINF:-1,ASTRO CRICKET 
 http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1488091
+#EXTINF:-1,SONY SPORTS 
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/1090641
 #EXTINF:-1, SOLH SPORTS 
 https://solhtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1,FOX 501
@@ -1296,7 +1362,10 @@ http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/123990.ts
 
 
 
+
  
+
+
 
 
 
