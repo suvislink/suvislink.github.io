@@ -15,12 +15,16 @@ http://cors.tundracast.com:2000/http://87.255.35.150:18553/.ts
 http://12dec25-rkdyiptv.wasmer.app/play.php?id=1105
 #EXTINF:-1,VIJAY SUPER 
 http://12dec25-rkdyiptv.wasmer.app/play.php?id=831
-#EXTINF:-1,HOLLYWOOD LOCAL TAMIL http://12dec25-rkdyiptv.wasmer.app/play.php?id=9184
+#EXTINF:-1,HOLLYWOOD LOCAL TAMIL 
+http://12dec25-rkdyiptv.wasmer.app/play.php?id=9184
 #EXTINF:-1,SUN MUSIC HD 
 http://12dec25-rkdyiptv.wasmer.app/play.php?id=652
-#EXTINF:-1,SONY BBC EARTH HD http://12dec25-rkdyiptv.wasmer.app/play.php?id=785
-#EXTINF:-1,TRAVEL XP TAMIL HD  http://12dec25-rkdyiptv.wasmer.app/play.php?id=9187
-#EXTINF:-1,HISTORY TV 18 HD TAMIL  http://12dec25-rkdyiptv.wasmer.app/play.php?id=766
+#EXTINF:-1,SONY BBC EARTH HD 
+http://12dec25-rkdyiptv.wasmer.app/play.php?id=785
+#EXTINF:-1,TRAVEL XP TAMIL HD  
+http://12dec25-rkdyiptv.wasmer.app/play.php?id=9187
+#EXTINF:-1,HISTORY TV 18 HD TAMIL  
+http://12dec25-rkdyiptv.wasmer.app/play.php?id=766
 #EXTINF:-1,KTV HD 
 http://12dec25-rkdyiptv.wasmer.app/play.php?id=1105
 #EXTINF:-1,SUN MUSIC 
@@ -33,7 +37,8 @@ http://12dec25-rkdyiptv.wasmer.app/play.php?id=11806
  http://12dec25-rkdyiptv.wasmer.app/play.php?id=2769
 #EXTINF:-1,COLORS HD TAMIL 
 http://12dec25-rkdyiptv.wasmer.app/play.php?id=742
-#EXTINF:-1,ZEE TAMIL HD TAMIL http://12dec25-rkdyiptv.wasmer.app/play.php?id=603
+#EXTINF:-1,ZEE TAMIL 
+http://12dec25-rkdyiptv.wasmer.app/play.php?id=603
 #EXTINF:-1,ZEE TAMIL 
 http://12dec25-rkdyiptv.wasmer.app/play.php?id=610
 #EXTINF:-1,ZEE TAMIL 
