@@ -132,25 +132,34 @@ http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/SONYMAX/index.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd?|drmScheme=clearkey&drmLicense=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
 
 #EXTINF:-1, RASI TAMIL 
+
 https://rasinetworks.in/live/rasitvhd/index.mpd
 
 #EXTINF:-1,RASI MUSIC 
+
 https://rasinetworks.in/live/rasimusichd/index.mpd
 #EXTINF:-1,RASI CLASSIC
+
 https://rasinetworks.in/live/rasiclassichd/index.mpd
 #EXTINF:-1,RASI COMODY
+
 https://rasinetworks.in/live/rasicomedyhd/index.mpd
 #EXTINF:-1,RASI CINEMA 
+
 https://rasinetworks.in/live/rasicinemahd/index.mpd
 
 #EXTINF:-1, RASI MOVIES 
+
 https://rasinetworks.in/live/rasimovieshd/index.mpd
 
 #EXTINF:-1,RASI HOLLYWOOD 
+
 https://rasinetworks.in/live/rasihollywoodhd/index.mpd
 #EXTINF:-1, RASI CINIMAX
+
 https://rasinetworks.in/live/rasicinemaxhd/index.mpd
 #EXTINF:-1,RASI LIFE STYLE 
+
 https://rasinetworks.in/live/rasilifestylehd/index.mpd
 
 #EXTINF:-1,SMCV TV
