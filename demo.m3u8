@@ -1,90 +1,22 @@
-#EXTINF:-1,DD SPORTS 
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-#EXTINF:-1, FOX SPORTS 
-http://51.89.148.37:8080/catena-9-94-streamer-fox_sports_502_fhd/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
-#EXTINF:-1, CRICKET GOLD 
-https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
-#EXTINF:-1, SPORTS 4K
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1, FOOTBALL LIVE
-https://spstr.abntv.live/hls/psstream.m3u8
-#EXTINF:-1,FIFA+ 
-https://bd4f89f2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/WGlhb21pLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1,DD SPORTS 1
-https://mix.drmlive.net/mix/playboxtv.m3u8?id=PBha-10569
-#EXTINF:-1,DD SPORTS 2
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-#EXTINF:-1,Horizon Sports
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
-#EXTINF:-1,SKY SPORTS 1
-https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1, RASI TAMIL 
+https://rasinetworks.in/live/rasitvhd/index.mpd
+
+#EXTINF:-1,RASI MUSIC 
+https://rasinetworks.in/live/rasimusichd/index.mpd
+#EXTINF:-1,RASI CLASSIC
+https://rasinetworks.in/live/rasiclassichd/index.mpd
+#EXTINF:-1,RASI COMODY
+https://rasinetworks.in/live/rasicomedyhd/index.mpd
+#EXTINF:-1,RASI CINEMA 
+https://rasinetworks.in/live/rasicinemahd/index.mpd
+
+#EXTINF:-1, RASI MOVIES 
+https://rasinetworks.in/live/rasimovieshd/index.mpd
+
+#EXTINF:-1,RASI HOLLYWOOD 
+https://rasinetworks.in/live/rasihollywoodhd/index.mpd
+#EXTINF:-1, RASI CINIMAX
+https://rasinetworks.in/live/rasicinemaxhd/index.mpd
+#EXTINF:-1,RASI LIFE STYLE 
+https://rasinetworks.in/live/rasilifestylehd/index.mpd
