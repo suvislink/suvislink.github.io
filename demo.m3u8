@@ -1,22 +1,228 @@
 
-#EXTINF:-1, RASI TAMIL 
-https://rasinetworks.in/live/rasitvhd/index.mpd
 
-#EXTINF:-1,RASI MUSIC 
-https://rasinetworks.in/live/rasimusichd/index.mpd
-#EXTINF:-1,RASI CLASSIC
-https://rasinetworks.in/live/rasiclassichd/index.mpd
-#EXTINF:-1,RASI COMODY
-https://rasinetworks.in/live/rasicomedyhd/index.mpd
-#EXTINF:-1,RASI CINEMA 
-https://rasinetworks.in/live/rasicinemahd/index.mpd
 
-#EXTINF:-1, RASI MOVIES 
-https://rasinetworks.in/live/rasimovieshd/index.mpd
+#EXTINF:-1,ACTION HOLLYWOOD 
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-#EXTINF:-1,RASI HOLLYWOOD 
-https://rasinetworks.in/live/rasihollywoodhd/index.mpd
-#EXTINF:-1, RASI CINIMAX
-https://rasinetworks.in/live/rasicinemaxhd/index.mpd
-#EXTINF:-1,RASI LIFE STYLE 
-https://rasinetworks.in/live/rasilifestylehd/index.mpd
+#EXTINF:-1, MOVIES ACTION 
+https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+#EXTINF:-1,AWESOME AUSTRALIA 
+https://jukin-peopleareawesome-2-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,AWE SOME
+https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8
+#EXTINF:-1,AWE Plus
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/playlist.m3u8
+
+#EXTINF:-1, XITE HITS 
+https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1,K-POP
+https://cc-s23bl4el34qh7.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-s23bl4el34qh7/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
+#EXTINF:-1, FIRST MUSIC 
+http://hz1.teleport.cc/HLS/HD.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
+#EXTINF:-1,VEVO
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+#EXTINF:-1,Vevo Pop (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
+#EXTINF:-1,Vevo Retro Rock (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
+#EXTINF:-1,Vevo 2K (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+#EXTINF:-1,Vevo Country (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
+#EXTINF:-1,CINEBOX MUSICAL 
+http://1tv41.icu:8080/live/charlie@celltv24/charlie@2022/119430.ts
+#EXTINF:-1,MIX MUSIC 
+https://cdamix.streaming.ws/mixmusic/live/chunklist_w163509705.m3u8
+#EXTINF:-1,DANCE TV
+https://online.tvimpact.live/hls/dancetv.m3u8
+#EXTINF:-1,IMPACT TV
+https://online.tvimpact.live/hls/impact_tv.m3u8
+#EXTINF:-1,CINELIFE
+https://magnoliaa-cinelife-oando-n6z8u.amagi.tv/playlist/magnoliaA-cinelife-oando/playlist.m3u8
+
+#EXTINF:-1,DUCK TV
+https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8
+#EXTINF:-1,CARTOON CHANNEL AUSTRALIA 
+https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1,WILD EARTH 
+https://d2f9g9rfw2kx84.cloudfront.net/playlist/amg01290-wildearth-oando/playlist.m3u8#3c2568002ddf1ba1e78f408bce3e32ddfcddfcbc603766bbf300c680df2e81f7
+#EXTINF:-1,Travelxp 4K HDR
+https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
+#EXTINF:-1,4k TRAVEL 1
+https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/title-4K-TRAVEL-TV-ENG/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+#EXTINF:-1,4K TRAVEL 2
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+#EXTINF:-1,REDBULL TV 1
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1,IN WILD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwild-samsungau/playlist.m3u8
+#EXTINF:-1, ADVENTURE EARTH (AU)  
+https://autentic-adventure-earth-1-au.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Baywatch (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8
+#EXTINF:-1,The Wicked Tuna Channel 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtuna-samsungau/playlist.m3u8
+#EXTINF:-1,Naturetime (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
+#EXTINF:-1,Pulse (Australia)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
+#EXTINF:-1,Kartoon Channel (Australia)
+https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1, HI DOSE
+https://cdn-1.pishow.tv/live/224/master.m3u8
+#EXTINF:-1,KIDS TV SONG 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-ind/master_en.m3u8
+#EXTINF:-1,MEGELLAN TV
+https://amg00376-magellan-amg00376c12-samsung-au-1725.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
+#EXTINF:-1,HOTEL INSPECTOR
+https://amg00654-itv-amg00654c4-samsung-au-998.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-hotelinspector-samsungau/playlist.m3u8
+#EXTINF:-1, OUTDOOR AUSTRALIA 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoorchannel-lgau/playlist.m3u8
+#EXTINF:-1,Always Funny
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/always-funny/playlist.m3u8
+#EXTINF:-1,Right Now Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/right-now-tv/playlist.m3u8
+#EXTINF:-1,Island Escape
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/island-escape/master.m3u8
+#EXTINF:-1,FUEL TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltv-uk-en-xiaomi/playlist.m3u8
+#EXTINF:-1,FEAR FACTOR
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
+#EXTINF:-1, WEATHER SPY
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1, THE PET COLLECTIVE
+https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1, GO USA
+https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,INDIA TODAY
+https://mix.drmlive.net/mix/playboxtv.m3u8?id=PBha-10547
+#EXTINF:-1,ABSOLUTE REALITY 
+ https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1,JUST FOR LAUGHS 
+ https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8
+#EXTINF:-1,DISCOVER FILM 
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,MOVIESPHERE
+https://amg00353-lionsgatestudios-amg00353c2-tclideo-na-2304.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviesphere-tclideona/playlist.m3u8?device
+#EXTINF:-1,NDTV INDIA 
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
+#EXTINF:-1,24HRS MOVIES 
+https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8?view=tnm3u-addedby=tnm3u
+#EXTINF:-1,CRIME FLIX 
+https://dgx2snzx175pa.cloudfront.net/scheduler/scheduleMaster/391.m3u8?view=tnm3u-addedby=tnm3u
+#EXTINF:-1, FASHION FINDS
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
+#EXTINF:-1,NDTV PROFIT PRIME 
+https://dai.google.com/linear/hls/event/QuU6z3GSTDaXuLL9Hs5A5Q/master.m3u8
+#EXTINF:-1,CNBC TV 1
+https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1,CNBC TV 2
+https://amg00866-amg00866c2-xiaomi-in-3516.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,CNN NEWS18 
+https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
