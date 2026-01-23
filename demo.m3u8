@@ -4,6 +4,8 @@ https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_inde
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd?|drmScheme=clearkey&drmLicense=af35608a7d4b13d1158c2ef6d6c1a010:d01c81050dfab309c6be7e60d03c2d82
 #EXTINF:-1,ZEE TAMIL 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd?|drmScheme=clearkey&drmLicense=0d4e3e7dac2d58b93bf819a72fe8d510:667a33f4d5bb3587f2d5209886839eac
+#EXTINF:-1, COLORS TAMIL 
+http://103.140.254.2:3500/live/429.m3u8
 #EXTINF:-1,KTV 
 https://livestream.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.mpd?|drmScheme=clearkey&drmLicense=351e547391bb45cbac66d2cb9ec0c294:3bd646753f4903eee3b404646c7819d3
 #EXTINF:-1, SUN LIFE
@@ -46,12 +48,10 @@ https://servertvhub.site/jio/app/ts_live_546.m3u8
 https://servertvhub.site/jio/app/ts_live_290.m3u8
 #EXTINF:-1,POGO TAMIL 
 https://servertvhub.site/jio/app/ts_live_542.m3u8
-#EXTINF:-1,9XM
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
+
 #EXTINF:-1,9X JALWA
 https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
-#EXTINF:-1,BALLE BALLE 
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8
+
 #EXTINF:-1, 8X MUSIC 
 https://epiconvh.akamaized.net/live/showbox/master.m3u8
 #EXTINF:-1,B4U KADAK
