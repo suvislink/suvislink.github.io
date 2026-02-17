@@ -13,16 +13,14 @@ https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index
 https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd?|drmScheme=clearkey&drmLicense=859f5b2054c4073e8f0da463d208b910:5eb3762b1a4631a0b98e25e23cef0193
 #EXTINF:-1,ASTRO VELLITHIRAI
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_ott.mpd?|drmScheme=clearkey&drmLicense=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
-#EXTINF:-1,VASANTH TV
-https://mumt04.tangotv.in/VASANTHTV/index.m3u8
+
 #EXTINF:-1,JAYA TV
-http://9bfcd9b1.ucomist.net/iptv/KNDHFTXDNXAUKD/6696/index.m3u8
+http://103.180.212.191:3500/live/419.m3u8
 #EXTINF:-1,JAYA MAX 
 https://servertvhub.site/jio/app/ts_live_420.m3u8
 #EXTINF:-1,JAYA MAX 1
 http://103.180.212.191:3500/live/420.m3u8
-#EXTINF:-1,JAYA TV
-http://103.180.212.191:3500/live/419.m3u8
+
 #EXTINF:-1,JAYA MOVIES 
 http://103.180.212.191:3500/live/417.m3u8
 #EXTINF:-1,JAYA MOVIES 1
@@ -30,14 +28,15 @@ https://servertvhub.site/jio/app/ts_live_417.m3u8
 
 
 
-#EXTINF:-1,SUN MUSIC 
-https://servertvhub.site/jio/app/ts_live_895.m3u8
+
 #EXTINF:-1,AASATHA TAMIL  
 https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8
 #EXTINF:-1,SANKARA TV 
 https://mumt05.tangotv.in/SRISANKARA/index.m3u8
 #EXTINF:-1,VENDER TV 
 https://mumt04.tangotv.in/VENDHARTV/index.m3u8
+#EXTINF:-1,VASANTH TV
+https://mumt04.tangotv.in/VASANTHTV/index.m3u8
 #EXTINF:-1, PEPPERS TV 
 https://mumt02.tangotv.in/PEPPERS/index.m3u8
 #EXTINF:-1,THANDHI ONE
@@ -46,6 +45,7 @@ https://servertvhub.site/jio/app/ts_live_3059.m3u8
 https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
 #EXTINF:-1,NEWS 8 TAMILNADU 
 https://nw18live.cdn.jio.com/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
+
 #EXTINF:-1,HISTORY TV 18 TAMIL 
 https://servertvhub.site/jio/app/ts_live_579.m3u8
 #EXTINF:-1,DISCOVERY TAMIL 
@@ -60,12 +60,15 @@ https://servertvhub.site/jio/app/ts_live_546.m3u8
 https://servertvhub.site/jio/app/ts_live_290.m3u8
 #EXTINF:-1,POGO TAMIL 
 https://servertvhub.site/jio/app/ts_live_542.m3u8
-
+#EXTINF:-1, COLORS SUPER 
+http://103.180.212.191:3500/live/785.m3u8
 #EXTINF:-1,9X JALWA
 https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
 
 #EXTINF:-1, 8X MUSIC 
 https://epiconvh.akamaized.net/live/showbox/master.m3u8
+#EXTINF:-1, B4U MUSIC 
+https://mix.drmlive.net/mix/playboxtv.m3u8?id=PBha-10545
 #EXTINF:-1,B4U KADAK
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=PBha-10544
 #EXTINF:-1,PITAARA MOVIES
@@ -74,21 +77,20 @@ https://mix.drmlive.net/mix/playboxtv.m3u8?id=PBha-10553
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 #EXTINF:-1,WORLD WAR TV
 https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1, COLORS SUPER 
-http://103.180.212.191:3500/live/785.m3u8
-
-#EXTINF:-1,NEWS 8 TAMILNADU 
-https://nw18live.cdn.jio.com/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
-
-
 #EXTINF:-1, WILD EARTH
 https://wildearth-plex.amagi.tv/master.m3u8
-#EXTINF:-1, B4U MUSIC 
-https://mix.drmlive.net/mix/playboxtv.m3u8?id=PBha-10545
 #EXTINF:-1, INDIA TODAY 
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=PBha-10547
 #EXTINF:-1, DD LIVE
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=PBha-10539
+
+
+
+
+
+
+
+
 
 
 
